@@ -1,0 +1,7 @@
+Cho dãy số bất kỳ có độ dài n bất kỳ (n <10). Anh/Chị hãy thực hiện các yêu cầu sau:
+-	Khởi tạo mảng với giá trị ngẫu nhiên trong phạm vi [-100,100] với số n (n <10) nhập vào. (20đ)
+-	Xuất dãy số vừa khởi tạo ra màn hình. (10đ)
+-	Xuất dãy số ra màn hình vừa khởi tạo. (10đ)
+-	Xuất các số nguyên dương ra màn hình.(10đ)
+-	Xuất dãy số ra màn hình theo thứ tự tăng dần. (5đ)
+-	Xuất dãy số ra màn hình theo thứ tự giảm dần. (5đ)
